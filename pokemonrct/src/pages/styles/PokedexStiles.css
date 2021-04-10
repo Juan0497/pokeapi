@@ -1,0 +1,45 @@
+.pantalla1 {
+  background: #d4400f;
+  width: 100vw;
+  height: 500px;
+  border: solid #424242;
+}
+.pantalla2 {
+  background: #d4400f;
+  width: 100vw;
+  height: 500px;
+  border: solid #424242;
+}
+
+.Principal {
+  height: 100vh;
+  background: yellow;
+}
+
+.imagenContainer {
+  background: white;
+  width: 160px;
+  border: solid #424242;
+  border-radius: 25px;
+  height: 160px;
+  background-repeat: no-repeat;
+}
+
+.ImgFondo {
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+}
+
+input {
+  border-radius: 25px;
+  border: solid #424242;
+}
+
+.stats {
+  background: white;
+  height: 300px;
+  width: 400px;
+  border-radius: 60px;
+  border: solid #424242;
+}

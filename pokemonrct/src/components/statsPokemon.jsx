@@ -1,6 +1,6 @@
 import React from "react";
 import { Radar } from "react-chartjs-2";
-import "../pages/styles/PokedexStiles.css";
+import "../containers/styles/PokedexStiles.css";
 import "bootstrap/dist/css/bootstrap.css";
 
 

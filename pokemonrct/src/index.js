@@ -1,5 +1,5 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import Paginaprincipal from "./pages/paginaPincipal";
+import Paginaprincipal from "./containers/Paginaprincipal";
 
-ReactDOM.render(<Paginaprincipal />, document.getElementById("root"));
+ReactDOM.render(<Paginaprincipal/>, document.getElementById("root"));

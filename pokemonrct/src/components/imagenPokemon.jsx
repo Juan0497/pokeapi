@@ -1,10 +1,10 @@
 import React from "react";
-import "../pages/styles/PokedexStiles.css";
+import "../containers/styles/PokedexStiles.css";
 
 class ImagenPokedex extends React.Component {
-  render() {
-    return (
-      <div>
+    render() {
+      return(
+    <div>
         <div
           className="imagenContainer d-flex justify-content-center"
           style={{
@@ -17,8 +17,8 @@ class ImagenPokedex extends React.Component {
           }}
         ></div>
       </div>
-    );
+    )
+      }
   }
-}
 
 export default ImagenPokedex;

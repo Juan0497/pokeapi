@@ -1,8 +1,8 @@
 import React from "react";
-import "./styles/PokedexStiles.css";
 import ImagenPokedex from "../components/imagenPokemon";
 import Statspokemon from "../components/statsPokemon";
 import axios from "axios";
+import "./styles/PokedexStiles.css";
 import "bootstrap/dist/css/bootstrap.css";
 
 
